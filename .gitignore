@@ -1,0 +1,8 @@
+artifacts/**
+build/**
+.DS_Store
+.npmrc
+!Documentation~
+!.Documentation
+node_modules/*
+npm-debug.log
